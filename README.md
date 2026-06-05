@@ -67,6 +67,4 @@ Passionnée d'informatique et de cybersécurité, je suis actuellement en format
 
 <div align="center">
 
-*Made with ❤️ and ☕ — always learning, always hacking (ethically 😇)*
-
 </div>
